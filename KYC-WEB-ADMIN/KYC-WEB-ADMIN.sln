@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYC-WEB-ADMIN", "KYC-WEB-ADMIN\KYC-WEB-ADMIN.csproj", "{90524489-3B48-4C50-AE30-286FD1A759CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KYC-WEB-ADMIN.Tests", "KYC-WEB-ADMIN.Tests\KYC-WEB-ADMIN.Tests.csproj", "{58FF3698-4865-4773-85F3-48F614879EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90524489-3B48-4C50-AE30-286FD1A759CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90524489-3B48-4C50-AE30-286FD1A759CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90524489-3B48-4C50-AE30-286FD1A759CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90524489-3B48-4C50-AE30-286FD1A759CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FF3698-4865-4773-85F3-48F614879EAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FF3698-4865-4773-85F3-48F614879EAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FF3698-4865-4773-85F3-48F614879EAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FF3698-4865-4773-85F3-48F614879EAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
